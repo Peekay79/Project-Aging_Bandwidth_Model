@@ -70,5 +70,7 @@ Thumbs.db
 # Project specific
 # Keep outputs under version control if desired; comment out to ignore
 # outputs/
-# Ignore large raw datasets but keep mock CSVs
-# data/raw/
+# Ignore large raw datasets and derived heavy files
+data/raw/**
+data/ppi_edges.tsv
+data/processed/**
