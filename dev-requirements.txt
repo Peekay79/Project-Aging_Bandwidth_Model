@@ -1,0 +1,3 @@
+coverage>=7.6
+vulture>=2.10
+pydeps>=1.12

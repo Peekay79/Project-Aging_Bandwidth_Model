@@ -74,3 +74,17 @@ Thumbs.db
 data/raw/**
 data/ppi_edges.tsv
 data/processed/**
+
+# audit artifacts
+.coverage
+.coverage.*
+.coverage.json
+htmlcov/
+dead_code_report.csv
+vulture_findings.txt
+.all_py.txt
+.executed_py.txt
+.likely_dead_dynamic.txt
+.vulture_files.txt
+pydeps_*.txt
+attic/
