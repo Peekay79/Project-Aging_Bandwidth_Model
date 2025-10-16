@@ -74,3 +74,8 @@ Thumbs.db
 data/raw/**
 data/ppi_edges.tsv
 data/processed/**
+
+# Static audit artifacts (report-only; force-add when committing)
+dead_code_report.csv
+AUDIT_DEAD_CODE_REPORT.md
+tools/__pycache__/

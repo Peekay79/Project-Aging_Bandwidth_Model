@@ -1,0 +1,13 @@
+path,confidence,reason,loc,last_modified
+scripts/prepare_data.py,high,not_reachable+vulture,247,2025-10-15
+scripts/download_data.py,high,not_reachable+vulture,157,2025-10-15
+tools/static_audit.py,medium,not_reachable,389,unknown
+scripts/run_pipeline.py,medium,not_reachable,134,2025-10-15
+scripts/network_overlay.py,medium,not_reachable,110,2025-10-15
+scripts/plot_headroom.py,medium,not_reachable,107,2025-10-15
+scripts/compute_load.py,medium,not_reachable,97,2025-10-15
+scripts/inflection.py,medium,not_reachable,96,2025-10-15
+scripts/compute_capacity.py,medium,not_reachable,84,2025-10-15
+scripts/compute_headroom.py,medium,not_reachable,45,2025-10-15
+scripts/network_overlay_cli.py,medium,not_reachable,14,2025-10-15
+scripts/inflection_cli.py,medium,not_reachable,4,2025-10-15
